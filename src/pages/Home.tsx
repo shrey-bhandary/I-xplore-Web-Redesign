@@ -1,7 +1,7 @@
 import React from 'react';
 import Hero from '../components/Hero';
 import Features from '../components/Features';
-import { MapPin, Calendar, Star } from 'lucide-react';
+import { MapPin, Star } from 'lucide-react';
 
 const Home: React.FC = () => {
   const destinations = [
